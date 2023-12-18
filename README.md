@@ -60,18 +60,3 @@ This project demonstrates a comprehensive approach to web development, incorpora
   - Functions to manage cookies.
   - Utilization of browser storage for storing local data.
 
-## Installation and Setup
-Detailed steps to install and set up the project on a local environment.
-
-## Usage
-Examples and scenarios demonstrating how to interact with the web application.
-
-## Contributing
-Guidelines for those who wish to contribute to this project.
-
-## License
-[Specify the license type here]
-
----
-
-Please fill in any specific details like installation instructions or usage examples according to your project's requirements. Replace placeholders like "[Specify the license type here]" with the actual information relevant to your project.
