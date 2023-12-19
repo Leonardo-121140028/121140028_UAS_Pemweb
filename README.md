@@ -54,9 +54,41 @@ This project demonstrates a comprehensive approach to web development, incorpora
   - Use of `session_start()` for session handling.
   - Storage of user information in session variables.
 
+
 ### Client-side State Management with JavaScript
 - **Overview**: Managing state using cookies and browser storage in JavaScript.
 - **Features**:
   - Functions to manage cookies.
   - Utilization of browser storage for storing local data.
 
+Absolutely, the text can be formatted to fit into a `README.md` document for your project. Here's how you can incorporate it:
+
+---
+
+## Bonus (Web Hosting)
+
+We embarked on our web development journey by securing a hosting plan and a domain at "geminiguys.my.id" with RumahWeb. The subsequent provision of cPanel access set the stage for our website's deployment.
+
+### Subdomain Configuration
+
+Each team member was allocated a subdomain, with mine being "rayhan.geminiguys.my.id". This action also generated a corresponding directory within the `public_html` folder, laying the groundwork for our individual web spaces.
+
+### Database Setup and Import
+
+Through the cPanel's MySQL database manager, I crafted a new database, ensuring to create and authorize a MySQL user for this database. Leveraging phpMyAdmin, I imported the essential "uas_pemweb.sql" file, setting the database's structure and initial content.
+
+### File Management and Configuration
+
+With the database ready, I uploaded the website files to the specified directory via the cPanel file manager. The final step in the setup involved tweaking the `koneksi.php` file to match the updated database configurations.
+
+### Hosting Selection Rationale
+
+Opting for RumahWeb's services fulfilled our requirements for the Web Programming Final Project splendidly. The balance between affordability for annual hosting, reliable customer service, and unwavering website uptime was crucial in our decision-making process.
+
+### Security Measures
+
+We safeguard our web project by diligently managing access to our database configurations and cPanel details, essential in preventing unauthorized intrusions. Enabling HTTPS has further solidified our website's security posture.
+
+### Server Specifications
+
+By utilizing subdomains, we've optimized our resource distribution strategy. Our chosen hosting package boasts unlimited bandwidth, ample storage, and an abundance of MySQL databases, all within RumahWeb's prescribed service parameters.
